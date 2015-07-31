@@ -1,6 +1,6 @@
 {
   "name": "cross-cookies",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Easily set cross (sub)domain cookies",
   "keywords": [],
   "author": "Matthew Mueller <mattmuelle@gmail.com>",
