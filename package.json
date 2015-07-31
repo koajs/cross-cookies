@@ -1,0 +1,20 @@
+{
+  "name": "cross-cookies",
+  "version": "0.0.1",
+  "description": "Easily set cross (sub)domain cookies",
+  "keywords": [],
+  "author": "Matthew Mueller <mattmuelle@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/koajs/cross-cookies.git"
+  },
+  "dependencies": {
+    "accessorize": "^1.0.0",
+    "object-assign": "^3.0.0"
+  },
+  "devDependencies": {
+    "mocha": "*",
+    "should": "*"
+  },
+  "main": "index"
+}
