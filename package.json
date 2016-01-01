@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "accessorize": "^1.0.0",
-    "object-assign": "^3.0.0"
+    "object-assign": "^4.0.1"
   },
   "devDependencies": {
     "mocha": "*",
