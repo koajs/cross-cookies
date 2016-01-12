@@ -14,7 +14,7 @@
   },
   "devDependencies": {
     "mocha": "*",
-    "should": "*"
+    "should": "8.1.0"
   },
   "main": "index"
 }
