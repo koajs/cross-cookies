@@ -13,7 +13,7 @@
     "object-assign": "^3.0.0"
   },
   "devDependencies": {
-    "mocha": "*",
+    "mocha": "2.4.1",
     "should": "*"
   },
   "main": "index"
